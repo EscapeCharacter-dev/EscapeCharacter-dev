@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile.
+## I am a programmer who writes useless programs.
+## Not working for anyone.
 
 <!--
 **EscapeCharacter-dev/EscapeCharacter-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
