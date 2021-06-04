@@ -2,9 +2,8 @@
 I am a programmer who writes useless programs.  
 Not working for anyone.
 
-![Language Stats](
-https://github-readme-stats.vercel.app/api/top-langs/?username=EscapeCharacter-dev&layout=compact&theme=github_dark
-)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EscapeCharacter-dev&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EscapeCharacter-dev&count_private=true&show_icons=true&theme=github_dark)
 
 <!--
 **EscapeCharacter-dev/EscapeCharacter-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
