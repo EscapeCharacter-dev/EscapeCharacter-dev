@@ -3,7 +3,7 @@ I am a programmer who writes useless programs.
 Not working for anyone.
 
 ![Language Stats](
-https://github-readme-stats.vercel.app/api/top-langs/?username=gek169&layout=compact&theme=github_dark
+https://github-readme-stats.vercel.app/api/top-langs/?username=EscapeCharacter-dev&layout=compact&theme=github_dark
 )
 
 <!--
